@@ -6,9 +6,20 @@
 Backend Peliculas - NestJS
 </p>
 
-## Description
+## Descripcion
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Proyecto realizado con Nestjs y con node 20
+
+[Nest](https://github.com/nestjs/nest) framework TypeScript.
+
+## Node
+
+Version de node 20
+
+```bash
+nvm install 20
+nvm use 20
+```
 
 ## Base de datos
 
