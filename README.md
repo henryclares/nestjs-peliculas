@@ -18,6 +18,8 @@ Base de datos PostgreSQL
 docker run -d --name postgres -e POSTGRES_PASSWORD=postgres -p 5432:5432 postgres
 ```
 
+Luego crea una base de datos llamada `db_peliculas`
+
 ## Varables de entorno
 
 Crea un archivo `.env`
