@@ -2,12 +2,11 @@
 
 ## Node
 
-Version de node 20
+Antes de continuar con la instalación del proyecto, es necesario que ya se hayan realizado las siguientes instalaciones:
 
-```bash
-nvm install 20
-nvm use 20
-```
+1. [NodeJS](https://github.com/nodesource/distributions/blob/master/README.md): Versión 20
+2. [NVM](https://github.com/nvm-sh/nvm) Se recomienda NVM solo para ambientes de DESARROLLO.
+   El proyecto esta desarrollado con [Node 20](https://nodejs.org/en/)
 
 ## Base de datos
 
