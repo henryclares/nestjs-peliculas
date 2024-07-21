@@ -1,0 +1,27 @@
+{"level":30,"time":1721530126174,"pid":1981,"hostname":"Henrys-MacBook-Pro.local","context":"NestFactory","msg":"Starting Nest application..."}
+{"level":30,"time":1721530126174,"pid":1981,"hostname":"Henrys-MacBook-Pro.local","context":"InstanceLoader","msg":"CoreModule dependencies initialized"}
+{"level":30,"time":1721530126174,"pid":1981,"hostname":"Henrys-MacBook-Pro.local","context":"InstanceLoader","msg":"DatabaseModule dependencies initialized"}
+{"level":30,"time":1721530126174,"pid":1981,"hostname":"Henrys-MacBook-Pro.local","context":"InstanceLoader","msg":"TypeOrmModule dependencies initialized"}
+{"level":30,"time":1721530126174,"pid":1981,"hostname":"Henrys-MacBook-Pro.local","context":"InstanceLoader","msg":"PassportModule dependencies initialized"}
+{"level":30,"time":1721530126174,"pid":1981,"hostname":"Henrys-MacBook-Pro.local","context":"InstanceLoader","msg":"ApplicationModule dependencies initialized"}
+{"level":30,"time":1721530126174,"pid":1981,"hostname":"Henrys-MacBook-Pro.local","context":"InstanceLoader","msg":"ConfigHostModule dependencies initialized"}
+{"level":30,"time":1721530126174,"pid":1981,"hostname":"Henrys-MacBook-Pro.local","context":"InstanceLoader","msg":"AppModule dependencies initialized"}
+{"level":30,"time":1721530126174,"pid":1981,"hostname":"Henrys-MacBook-Pro.local","context":"InstanceLoader","msg":"LoggerModule dependencies initialized"}
+{"level":30,"time":1721530126174,"pid":1981,"hostname":"Henrys-MacBook-Pro.local","context":"InstanceLoader","msg":"ConfigModule dependencies initialized"}
+{"level":30,"time":1721530126174,"pid":1981,"hostname":"Henrys-MacBook-Pro.local","context":"InstanceLoader","msg":"ConfigModule dependencies initialized"}
+{"level":30,"time":1721530126174,"pid":1981,"hostname":"Henrys-MacBook-Pro.local","context":"InstanceLoader","msg":"JwtModule dependencies initialized"}
+{"level":30,"time":1721530126174,"pid":1981,"hostname":"Henrys-MacBook-Pro.local","context":"InstanceLoader","msg":"HttpModule dependencies initialized"}
+{"level":30,"time":1721530126174,"pid":1981,"hostname":"Henrys-MacBook-Pro.local","context":"InstanceLoader","msg":"TypeOrmCoreModule dependencies initialized"}
+{"level":30,"time":1721530126174,"pid":1981,"hostname":"Henrys-MacBook-Pro.local","context":"InstanceLoader","msg":"TypeOrmModule dependencies initialized"}
+{"level":30,"time":1721530126175,"pid":1981,"hostname":"Henrys-MacBook-Pro.local","context":"InstanceLoader","msg":"TypeOrmModule dependencies initialized"}
+{"level":30,"time":1721530126175,"pid":1981,"hostname":"Henrys-MacBook-Pro.local","context":"InstanceLoader","msg":"UserModule dependencies initialized"}
+{"level":30,"time":1721530126175,"pid":1981,"hostname":"Henrys-MacBook-Pro.local","context":"InstanceLoader","msg":"MoviesModule dependencies initialized"}
+{"level":30,"time":1721530126175,"pid":1981,"hostname":"Henrys-MacBook-Pro.local","context":"InstanceLoader","msg":"AuthModule dependencies initialized"}
+{"level":30,"time":1721530126175,"pid":1981,"hostname":"Henrys-MacBook-Pro.local","context":"RoutesResolver","msg":"AppController {/}:"}
+{"level":30,"time":1721530126175,"pid":1981,"hostname":"Henrys-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/, GET} route"}
+{"level":30,"time":1721530126175,"pid":1981,"hostname":"Henrys-MacBook-Pro.local","context":"RoutesResolver","msg":"UserController {/user}:"}
+{"level":30,"time":1721530126175,"pid":1981,"hostname":"Henrys-MacBook-Pro.local","context":"RoutesResolver","msg":"AuthController {/auth}:"}
+{"level":30,"time":1721530126175,"pid":1981,"hostname":"Henrys-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/auth/sign-up, POST} route"}
+{"level":30,"time":1721530126175,"pid":1981,"hostname":"Henrys-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/auth/sign-in, POST} route"}
+{"level":30,"time":1721530126175,"pid":1981,"hostname":"Henrys-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/auth/profile, GET} route"}
+{"level":30,"time":1721530126175,"pid":1981,"hostname":"Henrys-MacBook-Pro.local","context":"RoutesResolver","msg":"MoviesController {/movies}:"}
